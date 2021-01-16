@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://scontent.flhe4-2.fna.fbcdn.net/v/t1.0-9/97093402_1462515870622008_303663808553943040_n.jpg?_nc_cat=104&ccb=2&_nc_sid=e3f864&_nc_eui2=AeGqqueY32KXgfdYLkDdSjYLktvPEJDyfviS288QkPJ--JHE4GrM-fJdRg1QJ4otPiDZnjFOYEMosSJCdcHtH8J3&_nc_ohc=8K-mafOQFBwAX_lGYD7&_nc_ht=scontent.flhe4-2.fna&oh=6b0e3bc69d9796c595ec2633af342f40&oe=6028A318">
 
 <h2> Hey there! I'm Atizaz.</h2>
 #### I'm a Full-Stack Developer based in Talagang, Pakistan .
