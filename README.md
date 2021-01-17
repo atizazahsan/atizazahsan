@@ -37,13 +37,6 @@
   ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=adobe-indesign)
   ![Canva](https://img.shields.io/badge/-canva-121232?style=flat&logo=adobe-indesign)
 
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atizazahsan=pakistan905+&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atizazahsan=pakistan905+&layout=compact" />
-  ![Aitzaz's github stats](https://github-readme-stats.vercel.app/api?username=atizazahsan&show_icons=true&theme=radical)
-</a>
 
 <br/>
 
@@ -52,7 +45,7 @@
 <p align="center">
 <a href="https://web.facebook.com/atizazahsan000"><img alt="Facebook" src="https://img.shields.io/badge/facebook-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/atizaz-ahsan-894557164/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AtizazAhsan-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/aitazaz_ahxan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-atizazahsan__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/aitazaz_ahxan/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-atizazahsan-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:atizazahsan.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-atizazahsan.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
