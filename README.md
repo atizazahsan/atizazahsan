@@ -42,6 +42,7 @@
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atizazahsan=pakistan905+&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atizazahsan=pakistan905+&layout=compact" />
+  ![Aitzaz's github stats](https://github-readme-stats.vercel.app/api?username=atizazahsan&show_icons=true&theme=radical)
 </a>
 
 <br/>
